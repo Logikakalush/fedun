@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-color:#179B17;
+    color: #FFFFFF;
+}
+
+header{
+    background-color:#FF5900;
+}
+
+div{
+    display: flex;
+    padding: 10px;
+}
+
+div p{
+    margin: 5px;
+}
+
+.catalog{
+    display: flex;
+}
+
+article{
+    margin: 5px;
+    background-color: #B83C08;
+    padding: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+.apple{
+    display: flex;
+}
+
+.apple img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+  nav a{
+    color: #FFFFFF;
+    text-decoration: none ;
+    font-size: 30px;
+  }
+
+nav{
+  display: flex;
+  justify-content: space-around;
+}v
