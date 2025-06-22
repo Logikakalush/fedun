@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-color:#179B17;
+    color: #FFFFFF;
+}
+
+header{
+    background-color:#FF5900;
+    padding: 20px;
+}
+
+.cad{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+  .cad img{
+    margin: 3px;
+    border: 7px double #FFA600;
+  }
+
+  footer{
+    background-color: #FF5900;
+    padding: 8px;
+  }
+
+  img:hover{
+    transform: scale(2);
+    transition: 10s;
+  }
+
+  nav a{
+    color: #FFFFFF;
+    text-decoration: none ;
+    font-size: 30px;
+  }
+
+nav{
+  display: flex;
+  justify-content: space-around;
+}
